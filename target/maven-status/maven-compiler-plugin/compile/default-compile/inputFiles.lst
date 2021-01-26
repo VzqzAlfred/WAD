@@ -1,0 +1,15 @@
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/entidades/Producto.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dao/UsuarioDAO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/controlador/web/BaseBean.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dto/GraficaDTO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dao/GraficaDAO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/controlador/web/CategoriaMB.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/entidades/Categoria.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dto/UsuarioDTO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/utilerias/HibernateUtil.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/utilerias/Utilerias.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dao/CategoriaDAO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dto/CategoriaDTO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dto/ProductoDTO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/dao/ProductoDAO.java
+/home/alfredo/Documentos/WAD/ProyectoFrameworkMVC/src/main/java/com/ipn/mx/modelo/entidades/Usuario.java
